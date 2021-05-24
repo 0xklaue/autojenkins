@@ -23,5 +23,12 @@ Keep your Jenkins config.xml & repos.csv in the same directory
 ```sh
 python2 autojenkins.py
 ```
+# Output
+Console output:
+<img src="https://github.com/0xklaue/autojenkins/blob/main/res/test.png">
+
+Jenkins output:
+<img src="https://github.com/0xklaue/autojenkins/blob/main/res/output.png">
+
 # Questions
 Reach me out on Twitter: [@0xklaue](https://twitter.com/0xklaue)
