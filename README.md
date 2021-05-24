@@ -14,7 +14,9 @@ You need 2 files for autojenkins to be operational:
  - Configuration file (`config.xml`) of your Jenkins
  - List of all repositories to be added in a CSV file, `items.csv`. The format should be as following: 
 
-Keep your Jenkins config.xml & repos.csv in the same directory:
+<img src="https://github.com/0xklaue/autojenkins/blob/main/res/items.png">
+
+Keep your Jenkins config.xml & repos.csv in the same directory
 
 # Usage
 
