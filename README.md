@@ -25,9 +25,13 @@ python2 autojenkins.py
 ```
 # Output
 Console output:
+
+
 <img src="https://github.com/0xklaue/autojenkins/blob/main/res/test.png">
 
+
 Jenkins output:
+
 <img src="https://github.com/0xklaue/autojenkins/blob/main/res/output.png">
 
 # Questions
