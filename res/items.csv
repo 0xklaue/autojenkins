@@ -1,0 +1,4 @@
+https://github.com/travis-ci-examples/python-example,*/master,python-example
+https://github.com/travis-ci-examples/php-example,*/master,php-example
+https://github.com/travis-ci-examples/java-example,*/master,java-example
+https://github.com/travis-ci-examples/ruby-example,*/master,ruby-example
