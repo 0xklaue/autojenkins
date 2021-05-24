@@ -1,5 +1,4 @@
-
-
+<img src="https://www.jenkins.io/images/logos/jenkins-is-the-way/jenkins-is-the-way.png" width="200" height="250">
 
 # autojenkins
 Streamline your Jenkins
@@ -13,7 +12,7 @@ autojenkins was created to automate certain tasks via python script, such as onb
 # How to use?
 You need 2 files for autojenkins to be operational:
  - Configuration file (`config.xml`) of your Jenkins
- - List of all repositories to be added in a CSV file, items.csv. The format should be as following: 
+ - List of all repositories to be added in a CSV file, `items.csv`. The format should be as following: 
 
 Keep your Jenkins config.xml & repos.csv in the same directory:
 
